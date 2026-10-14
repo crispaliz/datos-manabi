@@ -1,0 +1,30 @@
+Datos de cuencas de Manabí
+Copyright (c) 2026 Cristian Omar Paliz Acosta
+
+1. ELABORACIÓN PROPIA
+La selección, el recorte, la depuración, la organización y la documentación de
+estos datos son obra del autor y se distribuyen bajo la licencia
+Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0):
+https://creativecommons.org/licenses/by-nc/4.0/deed.es
+
+Se permite usarlos, copiarlos y adaptarlos con fines académicos y de
+investigación no comercial, citando al autor y este repositorio.
+El uso comercial requiere autorización escrita del autor.
+
+2. DATOS DE TERCEROS
+Los datos originales conservan las condiciones de uso de sus fuentes:
+- Modelo digital de elevación ALOS PALSAR (12,5 m): Includes Material
+  © JAXA/METI [año de adquisición]. Accessed through ASF DAAC,
+  https://asf.alaska.edu
+- Capas base de fuentes oficiales ecuatorianas: [institución y año].
+- Estaciones meteorológicas: Instituto Nacional de Meteorología e
+  Hidrología (INAMHI), Ecuador.
+Quien use estos datos debe citar también las fuentes originales.
+
+3. SIN GARANTÍA
+Los datos se entregan "tal cual", con fines docentes. El autor no se hace
+responsable por decisiones tomadas a partir de ellos.
+
+Cita sugerida:
+Paliz Acosta, C. (2026). Datos de cuencas de Manabí (v1) [Conjunto de datos].
+GitHub. https://github.com/crispaliz/datos-manabi
